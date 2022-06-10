@@ -1,0 +1,14 @@
+header{
+    display: flex;
+    nav{
+        ul{
+            li{
+                a{
+        font-size: nth(size: , 7: )
+        justify-content: center;
+        font-family: 'Montserrat', sans-serif;
+                }
+            }
+        }
+    }
+}
